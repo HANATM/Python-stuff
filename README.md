@@ -29,7 +29,7 @@ Here's a high-level overview of how an SSH brute force Python code typically wor
 * The main() function calls the above functions and prints the gathered information.<br/>
 When executed, the script will display the local IP address, public IP address, and user agent string.<br/>
 The get_location() function takes the public IP address as a parameter and uses the ipapi API to retrieve location information such as country, city, region, postal code, and timezone.<br/>
-The main() function calls all the relevant functions and prints the gathered information, including the local IP address, public IP address, user agent string, and location details.<br/>
+* The main() function calls all the relevant functions and prints the gathered information, including the local IP address, public IP address, user agent string, and location details.<br/>
 In this version, the script includes an additional get_location() function that fetches location information based on the public IP address. The ipapi API is used to obtain the country, city, region, postal code, and timezone associated with the IP address.<br/>
 
 
