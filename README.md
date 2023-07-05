@@ -1,7 +1,8 @@
 # Python-stuff
-<h1 center="align">The first file (SSH-BruteFORCE.py)</h1> 
+<h1 center="align">The first file (SSH-BruteForce.py)</h1> 
 <br/>
 - Python script Explanation:<br/>
+<br/>
 The first script is is a python code that aims to conduct an SSH based Brute Force attack on a given system in a very brief period of time , it automate the process of attempting multiple username and password combinations in order to gain unauthorized access to an SSH server. It is typically used as a hacking tool and is not ethical or legal to use without proper authorization. <br/>
 <br/>
 Here's a high-level overview of how an SSH brute force Python code typically works:<br/>
