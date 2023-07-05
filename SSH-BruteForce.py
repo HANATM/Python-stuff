@@ -39,7 +39,7 @@ def get_ip_address():
 # The program will start in the main function.
 def __main__():
     
-    ascii_banner = pyfiglet.figlet_format("X1-SSH Brute Forcing")
+    ascii_banner = pyfiglet.figlet_format("PURPLE-HAT HANA")
     print(ascii_banner)
     target = get_ip_address()
     username = input("Please enter the username :")
