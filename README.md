@@ -2,7 +2,7 @@
 <h1 center="align">The first file (SSH-BruteForce.py)</h1> <br/>
 <br/>
 <p align="center">
-  <img src="Screenshots/pycode result.PNG" width="700" height="500">
+  <img src="Screenshots/pycode result.PNG" width="700" height="400">
   
 
 - Python script Explanation:<br/>
